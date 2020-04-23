@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Code 201 Reading Notes
 
-You can use the [editor on GitHub](https://github.com/luluse/reading-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Intro:
+Hi, I'm Lulu! Welcome to my reading notes for code 201.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Click here](https://github.com/luluse) to get to my GitHub.
+[Click here](https://www.linkedin.com/in/lulu-sevignon/) to get to my LinkedIn.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Table of contents:
 
-# Header 1
-## Header 2
-### Header 3
+1. Lecture 1
+1. Lecture 2
+1. Lecture 3
+1. Lecture 4
+1. Lecture 5
+1. Lecture 6
+1. Lecture 7
+1. Lecture 8
+1. Lecture 9
+1. Lecture 10
+1. Lecture 11
+1. Lecture 12
+1. Lecture 13
+1. Lecture 14
+1. Lecture 15
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luluse/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
