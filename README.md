@@ -1,7 +1,7 @@
 # Code 201 Reading Notes
 
 ## Intro:
-Hi, I'm Lulu! Welcome to my reading notes for code 201.
+Hi, I'm Lulu! Welcome to my learning journal for code 201.
 
 [Click here](https://github.com/luluse) to get to my **GitHub**.
 
