@@ -11,7 +11,7 @@ Hi, I'm Lulu! Welcome to my learning journal for code 201.
 
 ## Table of contents:
 
-1. Lecture 1 [Introductory HTML and JavaScript](./tableofcontents/read01.md)
+1. Lecture 1 [Introductory HTML and JavaScript](./tableofcontents/class-01.md)
 1. Lecture 2
 1. Lecture 3
 1. Lecture 4
