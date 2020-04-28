@@ -1,4 +1,4 @@
-# HTML Lists
+## HTML Lists
 
 -  **Ordered lists**. Created with the `<ol>` element. Each item in the list is placed between `<li></li>`.
 
@@ -8,13 +8,13 @@
 
 - **Nested lists**. To create a nested list you can put a `<ul>` element inside a `<li>` element.
 
-# CSS Boxes
+## CSS Boxes
 
 #### Box dimensions
 
 By default a box is sized just big enough to hold its content. To set your own dimensions, use **width** and **height** properties. 
 
-Ways to specify sixze of a box: 
+Ways to specify size of a box: 
 - pixels (most popular)
 - percentages
 - ems
@@ -105,3 +105,11 @@ box shadow property allows you to add drop shadow around the box. It must use:
 border-radius property. The value indicates the size of the radius in pixels.
 `border-radius: 10px;`
 
+
+## Js Control Flow - Decisions and Loops
+
+#### If else statements
+
+Check a condition:
+- If it resolves to **true** the first code block is executed
+- If it resolves to **false** the second code block is run instead
