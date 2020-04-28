@@ -156,3 +156,9 @@ Logical operators allow you to compare the results of more than one comparison o
 
 Evaluates a condition. if the condition evaluates to **true**, statements in the code block are executed.
 
+# Git commit message 
+
+- Capitalize the subject line
+- Do not end line with a period
+- Limit the subject line to 50 characters
+- Use the imperative mood in the subject line
