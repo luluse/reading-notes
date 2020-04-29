@@ -113,3 +113,37 @@ border-radius property. The value indicates the size of the radius in pixels.
 Check a condition:
 - If it resolves to **true** the first code block is executed
 - If it resolves to **false** the second code block is run instead
+
+#### Switch Statement
+
+A switch statement sstarts with a variable called the switch value. Each case indicates a possible value for thsi variable and the code that should run if the variable matches tha value.
+At the end of each case there is a **break** keyword. Tells the browers it is done with this statement and can run next block.
+
+#### Type coercion
+
+JS can convert data behind the scenes to complete an operation. It is called type coercion.
+
+#### Loops
+
+Loops check a condition. If it returns true, a code block will run. It repeats until the condition returns false.
+
+3 types of loops:
+
+- FOR if you need to run code a specific number of times.
+- WHILE code will continue the loop for as long as the condition is true.
+- DO WHILE will run the statements inside the curly brackets at least once even if the condition evaluates false.
+`for (var i = 0; i < 10; i++) { document.write(i); }`
+
+`(var i = 0; i < 10; i++) is the condition counter document.write(i);` is the code to execute during loop (between the curly brackets).
+
+#### Loop counter
+
+A **for** loop uses a counter as a condition. This instructs the code to run a specified amount of times.
+
+Condition is made of 3 statements:
+
+- **initialization**. Create a variable and set it to 0 `var i = 0;`
+- **condition**. The loop should continue until the counter reaches a specified number `i < 10;`
+- **update**. Everytime the loop runs, it adds one to the counter `i++`
+
+A while loop will continue to run as long as the condition in the parenthesis are true. `while (i < 10)`
