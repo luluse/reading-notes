@@ -15,7 +15,7 @@ Hi, I'm Lulu! Welcome to my learning journal for code 201.
 1. Lecture 2 [HTML Text, CSS Introduction, and Basic JavaScript Instructions](./tableofcontents/class-02.md)
 1. Lecture 3 [HTML Lists, CSS Boxes, JS Control Flow](./tableofcontents/class-03.md)
 1. Lecture 4 [HTML Links, CSS Layout, JS Functions](./tableofcontents/class-04.md)
-1. Lecture 5
+1. Lecture 5 [HTML Images; CSS Color & Text](./tableofcontents/class-05.md)
 1. Lecture 6
 1. Lecture 7
 1. Lecture 8
