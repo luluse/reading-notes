@@ -89,3 +89,42 @@ arguments as variables: `wallWidth = 3; wallHeight = 5; getArea(wallWidth, wallH
 
 #### Getting a single value out of a function
 
+Some functions return information to the code that called them. For example, when they perform a calculation, they return the result. The same function can be used to perform the same steps with different values.
+
+#### Getting multiple values out of a function
+
+Functions can return more than one value using an array. 
+
+#### Anonymous functions & function expressions
+ 
+A **function declaration** created a function that you can call later in your code.
+`function area(width, height){return width * height;}`
+`var size = area()`
+
+In **function expressions**, the name is usually ommited. A function with no name is called an **anonymous function**.
+`var area = function(width, height){ return width * height;}`
+`var sie = area(3, 4);`
+
+#### Immediately invoked function expressions
+
+**IIFE**
+
+These functions are note given a name. They're are executed once as the interpreter comes accross them. They're used for code that only needs to run once within a task.
+
+#### Variable scope
+
+The location where you declare a functions will affect where it can be used within your code. This is called as the **variable's scope**.
+
+- Local variables are created inside a function and can only be used in that function.
+- Global variables are created outside of a function and can be used anywhere within the script.
+
+## 6 reasons for pair programming
+
+Pair programming commonly involves two roles: the Driver and the Navigator. The Driver is the programmer who is typing. The Driver manages the text editor, switching files, version control, writing code, thinks about the big picture, what comes next, how an algorithm might be converted in to code, while scanning for typos or bugs.
+
+- Greater efficiency. Easier to catch mistakes, come up with solutions faster.
+- Engaged collaboration. harder to procrastinate or get off tracks. 
+- Learning from fellow students. Everyone brings a unique approche to a specific problem, everyon has different skill sets. 
+- Social skills. learn how to work with others.
+- Job interview readiness. 
+- Work environment readiness. 
