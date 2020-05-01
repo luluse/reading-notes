@@ -1,5 +1,30 @@
-## Images ch5 pp94-125
+## Images HTML ch5 pp94-125
 
+When building a sitte from stratch, it's a good practise to create a folder for all of the images the site uses.
+
+#### Adding images
+`<img src="" alt="" title="" width="" height="" />` 
+
+- Alt provides a text description if you cannot see the image
+
+#### Creating an image
+- Save image in the right format(jpeg, gif, png)
+- Save image at the right size
+- Mesure image in Pixels
+
+#### Figure and Fogure caption
+ - `<figure>` element made to contain images and their caption.
+ - `<figcaption>`allows you to add a caption to an image.
+
+ `<figure>`
+
+`<img src="" alt="" title="" width="" height="" />`
+
+`<br />`
+
+`<figcaption></figcaption>`
+
+`</figure>`
 
 ## Color
 
