@@ -1,4 +1,4 @@
-## Images HTML ch5 pp94-125
+## Images HTML
 
 When building a sitte from stratch, it's a good practise to create a folder for all of the images the site uses.
 
