@@ -17,7 +17,7 @@ Hi, I'm Lulu! Welcome to my learning journal for code 201.
 1. Lecture 4 [HTML Links, CSS Layout, JS Functions](./tableofcontents/class-04.md)
 1. Lecture 5 [HTML Images; CSS Color & Text](./tableofcontents/class-05.md)
 1. Lecture 6 [JS Object Literals; The DOM](./tableofcontents/class-06.md)
-1. Lecture 7
+1. Lecture 7 [HTML Tables; JS Constructor Functions](./tableofcontents/class-07.md)
 1. Lecture 8
 1. Lecture 9
 1. Lecture 10
