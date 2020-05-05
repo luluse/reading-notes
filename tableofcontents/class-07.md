@@ -57,7 +57,7 @@ Even when a cell has not data, use <th> or <td> to represent the presence of an 
 
 `<tfoot></tfoot>`
 
-## Functions, Methods, and Objects 106-144
+## Functions, Methods, and Objects
 
 #### Creating an object
 
@@ -104,4 +104,50 @@ to clear the value of a property:
 `var quayHotel = new Hotel('Quay', 40 ,25);`
 
 `Hotel('Quay', 40 ,25);` is the constructor function
+
+#### Arrays 
+
+Arrays are objetcs. They hold a set of key/ value pairs, the **key is the index number**.
+
+### Built-in objects
+
+Toolkit for creating interactive web pages. built-in objets are functionalities commonly needed by manu scripts. Acess these properties using dot notation.
+
+> An object model is a group of objects, where each of them represent related things from the real world. 
+
+Toolkit has 3 compartments:
+1. browser object model. creates a model of the browser page or window. topmost object is the **window** object.
+
+- `window.print();`
+
+
+2. document object model. creates a model of the current webpage. topmost project is the **document** object.
+
+- `document.title`
+- `document.getElementById();`
+- `document.write();`
+- `document.lastModified;`
+
+3. global javascript objects. Do not form a single model.group of individual objects that relate to different parts of the JS language.
+
+- `.length`
+- `.toLowerCase`
+
+#### Math object
+- `Math.PI;` returns pi
+- `Math.round()` rounds number to the nearest integer
+- `Math.ceil()` rounds number up to the nearest integer
+- `Math.floor()`rounds number down to the nearest integer
+- `Math.random()` generate a random number 
+
+#### Date Object
+
+Create a date object: 
+
+`var today = new Date();` 
+
+` var year = today.getFullYear();`
+
+- `getDate()`
+- `getFullYear()`
 
