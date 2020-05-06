@@ -31,7 +31,7 @@ Clearing property:
 #### Fixed width layout
 Do not change size as the user increase or decrease the size of their browser window.
 
-Width of boxes specified in pixels. create <div> an assign class or Id.
+Width of boxes specified in pixels. create `<div>` and assign class or Id.
 
 #### Liquid layout
 Stretch and contract as the user increase or decrease the size of their browser window.
