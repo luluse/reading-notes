@@ -22,7 +22,7 @@ Hi, I'm Lulu! Welcome to my learning journal for code 201.
 1. Lecture 9 [Forms and Events](./tableofcontents/class-09.md)
 1. Lecture 10 [JS Debugging](./tableofcontents/class-10.md)
 1. Lecture 11 [Images and Practical information](./tableofcontents/class-11.md)
-1. Lecture 12
+1. Lecture 12 [Docs for the HTML `<canvas>` Element & Chart.js](./tableofcontents/class-12.md)
 1. Lecture 13
 1. Lecture 14
 1. Lecture 15
