@@ -67,3 +67,59 @@ Once the keyframes for an animation have been declared they need to be assigned 
 ```
 - `animation-iteration-count` repeat itself numerous times
 - `animation-direction` property include normal, reverse, alternate(play an animation forwards then backwards), and alternate-reverse.
+
+## 8 SIMPLE CSS3 TRANSITIONS THAT WILL WOW YOUR USERS
+
+1. fade in. first, you set the initial state; next, you set the change, for example on hover:
+```
+.fade
+{
+        opacity:0.5;
+}
+.fade:hover
+{
+        opacity:1;
+}
+```
+2. Change color
+```
+.color:hover
+{
+        background:#53a7ea;
+}
+```
+3. Grow and shrink
+```
+.grow:hover
+{
+        -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+}
+```
+4. Rotate elements
+```
+.rotate:hover
+{
+        -webkit-transform: rotateZ(-30deg);
+        -ms-transform: rotateZ(-30deg);
+        transform: rotateZ(-30deg);
+}
+```
+
+5. Square to circle
+```
+.circle:hover
+{
+        border-radius:50%;
+}
+```
+6. 3D shadow
+7. Swing
+8. Inset border
+``` 
+.border:hover
+{
+        box-shadow: inset 0 0 0 25px #53a7ea;
+}
+```
