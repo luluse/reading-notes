@@ -1,4 +1,4 @@
-# Code 201 Reading Notes
+# Reading Notes
 
 ## Intro:
 Hi, I'm Lulu! Welcome to my learning journal for code 201 and 301.
@@ -30,3 +30,18 @@ Hi, I'm Lulu! Welcome to my learning journal for code 201 and 301.
 
 ## Code 301 - Intermediate Software Development
 
+1. Lecture 1 [SMACSS and Responsive Web Design](./code301/class-01.md)
+1. Lecture 2 [](./code201/class-02.md)
+1. Lecture 3 [](./code301/class-03.md)
+1. Lecture 4 [](./code301/class-04.md)
+1. Lecture 5 [](./code301/class-05.md)
+1. Lecture 6 [](./code301/class-06.md)
+1. Lecture 7 [](./code301/class-07.md)
+1. Lecture 8 [](./code301/class-08.md)
+1. Lecture 9 [](./code301/class-09.md)
+1. Lecture 10 [](./code301/class-10.md)
+1. Lecture 11 [](./code301/class-11.md)
+1. Lecture 12 [](./code301/class-12.md)
+1. Lecture 13 [](./code301/class-13.md)
+1. Lecture 14 [](./code301/class-14.md)
+1. Lecture 15 [](./code301/class-15.md)
