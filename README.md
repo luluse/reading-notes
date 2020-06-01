@@ -31,7 +31,7 @@ Hi, I'm Lulu! Welcome to my learning journal for code 201 and 301.
 ## Code 301 - Intermediate Software Development
 
 1. Lecture 1 [SMACSS and Responsive Web Design](./code301/class-01.md)
-1. Lecture 2 [](./code201/class-02.md)
+1. Lecture 2 [jQuery, Events, and The DOM](./code201/class-02.md)
 1. Lecture 3 [](./code301/class-03.md)
 1. Lecture 4 [](./code301/class-04.md)
 1. Lecture 5 [](./code301/class-05.md)
