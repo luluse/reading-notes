@@ -27,6 +27,59 @@ jQuery has methods that offer simpler ways to perform common tasks, like:
 
 p. 306-331
 
+#### Matched set/jQuery Selection
+
+When you select one or more element , a jQuery object is returned. this is called a **Matched set** or **jQuery Selection**.
+
+- Get information: If a jQuery selection holds more than one element, it will retrieve info from only the first element in the matched set. 
+
+- Set information: If a jQuery selection holds more than one element, it will update all of the elements in the matched set.
+
+- JQuery objects store references to the corresponding nodes in the DOM tree. it doesn't create copies of them. 
+
+- Chaining: you can use more than one jQuery method on the same selection of elements using dot notation to separate them. 
+
+`$('li').hide().delay(500).fadeIn(1400);`
+
+- `$(document).ready()` checks than a page is ready for your code to work.
+
+#### Getting element content
+
+- `.html()` retrieves info from a jQuery selection, retrieves the html inside the first element, along with its descendants.
+
+`$('li').html();` will return `<em>fresh</em> figs`
+
+- `.text()` retrives the content from very element in the jQuery selection
+
+`$('li').text();` will return `fresh figspine nutshoney balsamic vinegar`
+
+#### Updating Elements
+
+- `.html()` gives every element in the matched set the same new content, may include HTML.
+- `.text()` gives every element in the matched set the same new text content. no markup.
+- `.replaceWith()` replaces every element in the matched set with new content, returns the replaced elements. 
+- `.remove()` removed all the elements in the matched set.
+
+#### Inserting elements
+
+Involves two steps:
+1. create the new elements in a jQuery object
+   - `var $newItem = $('<li class="new">item</li>');` 
+2. use a method to insert the content into the page.
+   - `.before()`
+   - `.after()`
+   - `.prepend()`
+   - `.append()`
+
+#### Getting and setting attributes values
+
+- `.attr()` get or set a specified attribute and its value. `('li#one').attr('id')`
+- `.removeAttr()` - `('li#one').removeAttr('id')`
+- `.AddClass()`
+- `.removeClass()`
 
 
-p. 354-357
+
+### Where to place your sripts:
+
+Before the closing `</body>` tag.
