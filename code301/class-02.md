@@ -78,6 +78,52 @@ Involves two steps:
 - `.AddClass()`
 - `.removeClass()`
 
+#### Getting and setting CSS properties
+
+- `varBckgroundColor = $('li').css('background-color');` will store background color of **first** li element.
+
+- to set a css property: `$('li').css('background-color', '#272727');`
+
+- to set multiple properties: 
+
+`$('li').css({`
+
+`'background-color': '#272727',`
+ 
+`font-family: 'courier'`
+
+`});`
+
+#### Working with Each
+
+recreate the functionality of a loop using `.each()` method. allows you ti perform one or more statement on each of the itemsin the selection of element that is returned by a selector.
+
+It takes on parameter:  a function containing the statements you want to run on each element.
+
+`this` allow you to access the current element in the selection as method goes through.
+
+`$('li').each(function(){`
+
+  ` var ids = this.id;`
+
+  ` $(this).append(' <em clas="order">' + ids + '</em>');`
+
+`});`
+
+#### Event methods
+
+`.on()` handle all events. takes two paramethers:
+- the event you want to respond to
+- the function you want to run when event occurs
+
+`$('li').on('click', function(){`
+
+  ` $(this).addClass('complete');`
+
+`});`
+
+
+
 
 
 ### Where to place your sripts:
