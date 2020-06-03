@@ -16,10 +16,10 @@ Mustache is a logic-less template syntax. It works by expanding tags in a templa
 ### Properties for the Parent/ flex container
 
 - `display: flex;` enables flex context for direct children. 
-- `flex-driection: row | row-reverse | column | column-reverse;` 
+- `flex-direction: row | row-reverse | column | column-reverse;` 
 - `flex-wrap: nowrap | wrap | wrap-reverse;` by default, flex items will try to fit onto one line.
 - `flex-flow: column wrap;` shorthand for the flex-direction and flex-wrap properties,
-- `justify-content:`  
+- `justify-content:` aligns items horizontally
     - `flex-start` (default): items are packed toward the start of the flex-direction.
     - `flex-end:` items are packed toward the end of the flex-direction.
     - `start:` items are packed toward the start of the writing-mode direction.
@@ -32,7 +32,7 @@ Mustache is a logic-less template syntax. It works by expanding tags in a templa
     - `space-around:` items are evenly distributed in the line with equal space around them. 
     - `space-evenly:` items are distributed so that the spacing between any two items (and the space to the edges) is equal.
 
-- `align-items: stretch | flex-start | flex-end | center | baseline`
+- `align-items: stretch | flex-start | flex-end | center | baseline`. aligns items vertically 
 
 - `align-content: flex-start | flex-end | center | space-between | space-around | space-evenly | stretch | start | end | baseline` this property has no effect when there is only one line of flex items.
 
@@ -45,3 +45,4 @@ Mustache is a logic-less template syntax. It works by expanding tags in a templa
 - `flex-basis:  | auto; /* default auto */`
 
 - `align-self: auto | flex-start | flex-end | center | baseline | stretch;` allows the default alignment (or the one specified by align-items) to be overridden for individual flex items
+
