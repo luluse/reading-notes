@@ -2,7 +2,7 @@
 
 ## CSS GRID
 
-[A complte guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+[A complete guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ### Grid items 
 
