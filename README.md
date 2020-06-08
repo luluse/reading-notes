@@ -36,7 +36,7 @@ Hi, I'm Lulu! Welcome to my learning journal for code 201 and 301.
 1. Lecture 4 [CSS Grid](./code301/class-04.md)
 1. Lecture 5 [Heroku Deployment](./code301/class-05.md)
 1. Lecture 6 [Node, Express, and APIs](./code301/class-06.md)
-1. Lecture 7 [](./code301/class-07.md)
+1. Lecture 7 [REST](./code301/class-07.md)
 1. Lecture 8 [](./code301/class-08.md)
 1. Lecture 9 [](./code301/class-09.md)
 1. Lecture 10 [](./code301/class-10.md)
