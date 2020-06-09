@@ -64,3 +64,58 @@ All strings must be quoted so that the query parser can distinguish words in the
 - LIMIT: will reduce the number of rows to return
 
 - OFFSET: will specify where to begin counting the number rows from. `LIMIT num_limit OFFSET num_offset;`
+
+### SQL Lesson 13: Inserting rows
+
+INSERT statement declares which table to write into, the columns of data that we are filling, and one or more rows of data to insert.
+
+`INSERT INTO mytable`
+
+`VALUES (value_or_expr, another_value_or_expr, …),`
+
+   `(value_or_expr_2, another_value_or_expr_2, …), …;`
+
+ ###  SQL Lesson 14: Updating rows
+
+ `UPDATE mytable`
+
+`SET column = value_or_expr, other_column = another_value_or_expr, `
+    
+`WHERE condition;`
+
+### SQL Lesson 15: Deleting rows
+
+`DELETE FROM mytable`
+
+`WHERE condition;`
+
+### SQL Lesson 16: Creating tables
+
+
+`CREATE TABLE movies (`
+
+ `id INTEGER PRIMARY KEY,`
+ `title TEXT,`
+ `director TEXT,`
+ `year INTEGER, `
+ `length_minutes INTEGER`
+);
+
+### SQL Lesson 17: Altering tables
+
+update your tables and database schemas by using the ALTER TABLE statement to add, remove, or modify columns and table constraints.
+
+`ALTER TABLE mytable`
+`ADD column DataType OptionalTableConstraint `
+
+`ALTER TABLE mytable`
+`DROP column_to_be_deleted;`
+
+`ALTER TABLE mytable`
+`RENAME TO new_table_name;`
+
+### SQL Lesson 18: Dropping tables
+
+remove an entire table including all of its data and metadata: use the DROP TABLE statement.
+
+`DROP TABLE IF EXISTS mytable;`
