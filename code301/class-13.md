@@ -1,5 +1,7 @@
 # Update/Delete
 
+## Sending form data
+
 ### On the client side: defining how to send the data
 
 - The `<form>` element defines how the data will be sent.
