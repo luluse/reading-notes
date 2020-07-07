@@ -45,3 +45,7 @@ Hi, I'm Lulu! Welcome to my learning journal for code 201 and 301.
 1. Lecture 13 [Update/Delete](./code301/class-13.md)
 1. Lecture 14 [DB Normalization](./code301/class-14.md)
 1. Lecture 15 [Diversity and Inclusion](./code301/class-15.md)
+
+## Code 401 - Advanced Software Development
+
+1. [Engineering Topics](./code401/prepwork.md)
