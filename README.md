@@ -1,7 +1,7 @@
 # Reading Notes
 
 ## Intro:
-Hi, I'm Lulu! Welcome to my learning journal for code 201 and 301.
+Hi, I'm Lulu! Welcome to my learning journal for code 201, 301 and 401.
 
 [Click here](https://github.com/luluse) to get to my **GitHub**.
 
