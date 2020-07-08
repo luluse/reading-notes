@@ -31,3 +31,33 @@
 
 - If you don’t treat yourself and your time with respect, you will become unhappy, resentful, and tired. 
 - You probably need to say “no” more.
+
+
+## [How to think like a programmer](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
+
+> It is about a more effective way for problem solving.
+
+> Problem-solving skills are almost unanimously the most important qualification that employers look for. It is considered the meta-skill. 
+
+The best way to solve problems involves having a framework and practicing it.
+
+#### When you encounter a problem:
+1. Understand: Most hard problems are hard because you don’t understand them (you should write down your problem, doodle a diagram, or tell someone else about it)
+
+1. Plan: Give your brain time to analyze the problem and process the information. Don’t dive right into solving without a plan
+
+1. Divide: break it into sub-problems that are easier to solve. Connecting all your “sub-solutions” will give you the solution to the original problem.
+
+1. Stuck? best programmers/problem-solvers are more curious about bugs/errors than irritated.
+    -  Debug: Go step by step through your solution trying to find where you went wrong.
+    - Reassess: Take a step back. Look at the problem from another perspective.
+    - Research: Google is your best friend. No matter what problem you have, someone has probably solved it
+
+#### Practise:
+
+If you want to be a good problem-solver, solve a lot of problems!
+
+Find an outlet to practice. Something that allows you to solve many micro-problems. 
+
+Code challenges: [Link to coderbyte](https://coderbyte.com/)
+
