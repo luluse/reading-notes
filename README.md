@@ -49,3 +49,8 @@ Hi, I'm Lulu! Welcome to my learning journal for code 201, 301 and 401.
 ## Code 401 - Advanced Software Development
 
 1. [Engineering Topics](./code401/prepwork.md)
+1. Lecture 1 [Node Ecosystem, TDD, CI/CD](./code401/class-01.md)
+1. Lecture 2 [](./code401/class-02.md)
+1. Lecture 3 [](./code401/class-03.md)
+1. Lecture 4 [](./code401/class-04.md)
+1. Lecture 5 [](./code401/class-05.md)
