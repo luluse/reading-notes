@@ -59,7 +59,15 @@ console.log(usernames);
 
 #### functional programming
 
+Functional programming is the process of building software by composing pure functions, avoiding shared state, mutable data, and side-effects. It contrast with object oriented programming.
+
+- [Medium](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+
 #### pure function
+
+A function must pass two tests to be considered “pure”:Same inputs always return same outputs and no side-effects.
+
+- [Free code camp](https://www.freecodecamp.org/news/what-is-a-pure-function-in-javascript-acb887375dfe/)
 
 #### higher-order function
 
