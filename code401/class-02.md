@@ -25,7 +25,7 @@ Maintaining the test code along with your production code. Time consuming.
 
 #### What’s the primary difference between ES6 Classes and Constructor/Prototype Classes?
 
-ES6 Classes are easier to read and wokr with. The main difference is the syntax.
+ES6 Classes are easier to read and work with. The main difference is the syntax.
 
 - [medium](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
 
@@ -52,10 +52,14 @@ users = [
   }
 ];
 
-usernames = users.map(getName);
+namesStartingWithB = users.filter((user) => startsWithB(user.name));
 
-console.log(usernames);
+console.log(namesStartingWithB);
 ```
+
+Great reusability, allows for functions that operate on other functions.
+
+- [free code camp](https://www.freecodecamp.org/news/a-quick-intro-to-higher-order-functions-in-javascript-1a014f89c6b/)
 
 #### functional programming
 
@@ -77,9 +81,22 @@ A function that accepts and/or returns another function.You can use it as a piec
 
 #### immutable state
 
+ An immutable object, is an object whose state cannot be modified after it is created.string and numbers are immutable data types.
+ Keeping the state immutable can help you in terms of performance, predictivity and better mutation tracking.
+
+ - [dzone](https://dzone.com/articles/immutability-in-javascriptwhy-and-when-should-you)
+
 #### object
 
+OBject is a datatype. It is used to store various keyed collections and more complex entities.
+
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+
 #### object-oriented programming (OOP)
+
+Use objects to model real world things that we want to represent inside our programs, and/or provide a simple way to access functionality that would otherwise be hard or impossible to make use of.
+- [MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
+
 
 #### class
 
@@ -88,16 +105,36 @@ Classes are "special functions", and just as you can define function expressions
 
 
 #### prototype
+Prototype property is basically an object (also known as Prototype object), where we can attach methods and properties in a prototype object, which enables all the other objects to inherit these methods and properties.
+
+- [Geeks for Geeks](https://www.geeksforgeeks.org/prototype-in-javascript/)
+
 
 #### super
+The super keyword is used to access and call functions on an object's parent.
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
+
 
 #### inheritance
 
+"child" object classes (constructors) inherit features from their "parent" classes.
+- [MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance)
+
 #### constructor
 
+A constructor enables you to provide any custom initialization that must be done before any other methods can be called on an instantiated object.
+
+-[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor)
+
 #### instance
+Instance properties must be defined inside of class methods
+In JavaScript, "instance" does not have a technical meaning because JavaScript does not have this difference between classes and instances. However, in talking about JavaScript, "instance" can be used informally to mean an object created using a particular constructor function. 
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model#:~:text=In%20JavaScript%2C%20%22instance%22%20does,using%20a%20particular%20constructor%20function.)
 
 #### context
+if you just type this in the console, you will get the window-object, the outermost context for your JavaScript.
+Context only makes sense inside of functions.
+- [Free code camp](https://www.freecodecamp.org/news/how-to-understand-the-keyword-this-and-context-in-javascript-cd624c6b74b8/)
 
 #### this
 
@@ -118,4 +155,9 @@ JavaScript Testing Framework
 
 #### Continuous Integration (CI)
 
+Continuous Integration (CI) is the process of automating the build and testing of code every time a team member commits changes to version control.
+- [Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-continuous-integration)
+
 #### unit test
+Unit tests only test a single part of your implementation. A unit. No dependencies or integrations, no framework specifics. They're like a method that returns a link in a specific language:
+- [Free cpode camp](https://www.freecodecamp.org/news/how-to-start-unit-testing-javascript/)
