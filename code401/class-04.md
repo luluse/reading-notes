@@ -13,10 +13,10 @@ Postgres is a SQL database. MongoDB is a NoSQL databse.
 Mongoose is a MongoDB object modeling tool. We need it to design the collection, define the shape of the documents within that collection.
 
 ### Describe how NoSQL Databases scale horizontally
-
+NoSQL databases are horizontally scalable, which means that they can handle increased traffic simply by adding more servers to the database. NoSQL databases have the ability to become larger and much more powerful, making them the preferred choice for large or constantly evolving data sets.
 
 ### Give one strong argument for and against NoSQL Databases
-
+Using NoSQL Database is great to handle a huge volume of structured, semi-structured and unstructured data.But it lacks standardization, unlike SQL, which in turn creates some issues during migration
 
 ### Define three related pieces of data in a possible application. An example for a store application might be Product, Category and Department. Describe the constraints and rules on each piece of data and how you would relate these pieces to each other. For example, each Product has a Category and belongs in a Department.
 For a recipe app, you will have recipes by cuisine or main ingredient category and each recipe will have its list of ingredients and instructions. 
