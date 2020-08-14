@@ -53,4 +53,4 @@ Hi, I'm Lulu! Welcome to my learning journal for code 201, 301 and 401.
 1. Lecture 2 [Classes, Inheritance, Functional Programming](./code401/class-02.md)
 1. Lecture 3 [Data Modeling & NoSQL Databases](./code401/class-03.md)
 1. Lecture 4 [Advanced Mongo/Mongoose](./code401/class-04.md)
-1. Lecture 5 [](./code401/class-05.md)
+1. Lecture 5 [Linked Lists](./code401/class-05.md)
