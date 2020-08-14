@@ -45,3 +45,6 @@
 - Takes more time, have to traverse the entired linked list to find it. Space time complexity is O(n)
 
 > a linked list is usually efficient when it comes to adding and removing most elements, but can be very slow to search and find a single element.
+
+- Linked lists are helpful if you don't know the size of hte list and mostly want to add or remove things quickly without random acces
+- Arrays are helpful if you know the size of the list, you need random access to elements or want to iterate quickly
