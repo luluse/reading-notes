@@ -44,3 +44,30 @@ app.get(/.*fly$/, function (req, res) {
 })
 ```
 
+## [ExpressJS 4.0 Router](https://scotch.io/tutorials/learn-to-use-the-new-router-in-expressjs-4)
+
+### express.Router()
+```
+// get an instance of router
+var router = express.Router();
+
+// home page route (http://localhost:8080)
+router.get('/', function(req, res) {
+    res.send('im the home page!');  
+});
+
+// about page route (http://localhost:8080/about)
+router.get('/about', function(req, res) {
+    res.send('im the about page!'); 
+});
+
+// apply the routes to our application
+app.use('/', router);
+```
+
+With Express 4.0 Router, we can: 
+- Use express.Router() multiple times to define groups of routes
+- Apply the express.Router() to a section of our site using app.use()
+- Use route middleware to process requests
+- Use route middleware to validate parameters using .param()
+- Use app.route() as a shortcut to the Router to define multiple requests on a route
