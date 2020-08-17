@@ -14,8 +14,7 @@
 
 | HTTP Method	| Request Has Body |	Response Has Body	| Safe	| Idempotent |	Cacheable | Function |
 | ----| ----| ----| ----| ----| ----| ----| 
-| GET	|No	|Yes	|Yes	|Yes	|Yes
-|	Retrieve a resource|
+| GET	|No	|Yes	|Yes	|Yes	|Yes|	Retrieve a resource|
 |HEAD	|No	|No|	Yes|	Yes|	Yes|	Like GET but headers only|
 |POST	|Yes|	Yes|	No	|No	|Yes|	Create a resource|
 |PUT	|Yes|	Yes|	No|	Yes	|No|	Update a resource|

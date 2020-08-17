@@ -55,7 +55,7 @@ Hi, I'm Lulu! Welcome to my learning journal for code 201, 301 and 401.
 1. Lecture 4 [Advanced Mongo/Mongoose](./code401/class-04.md)
 1. Lecture 5 [Linked Lists](./code401/class-05.md)
 1. Lecture 6 [HTTP and REST](./code401/class-06.md)
-1. Lecture 7 [](./code401/class-07.md)
+1. Lecture 7 [Express](./code401/class-07.md)
 1. Lecture 8 [](./code401/class-08.md)
 1. Lecture 9 [](./code401/class-09.md)
 1. Lecture 10 [](./code401/class-10.md)
