@@ -54,9 +54,14 @@
 ## Resources
 
 [using express middleware](https://expressjs.com/en/guide/using-middleware.html)
+
 [express middleware](https://www.tutorialspoint.com/expressjs/expressjs_middleware.htm)
+
 [using express routing](https://expressjs.com/en/guide/routing.html)
+
 [supertest](https://github.com/visionmedia/supertest)
+
 [express middleware list](https://expressjs.com/en/resources/middleware.html)
+
 [http status codes](https://www.restapitutorial.com/httpstatuscodes.html)
 
