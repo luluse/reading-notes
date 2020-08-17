@@ -14,12 +14,13 @@
 
 | HTTP Method	| Request Has Body |	Response Has Body	| Safe	| Idempotent |	Cacheable | Function |
 | ----| ----| ----| ----| ----| ----| ----| 
-| GET	|No	|Yes	|Yes	|Yes	|Yes	Retrieve a resource|
+| GET	|No	|Yes	|Yes	|Yes	|Yes
+|	Retrieve a resource|
 |HEAD	|No	|No|	Yes|	Yes|	Yes|	Like GET but headers only|
 |POST	|Yes|	Yes|	No	|No	|Yes|	Create a resource|
 |PUT	|Yes|	Yes|	No|	Yes	|No|	Update a resource|
-|DELETE	|No|	Yes|	No|	Yes	No|	Delete a resource|
-|CONNECT|	Yes	|Yes|	No|	No|	No|	Create |TCP/IP tunnel|
+|DELETE	|No|	Yes|	No|	Yes	| No|	Delete a resource|
+|CONNECT|	Yes	|Yes|	No|	No|	No|	Create TCP/IP tunnel|
 |OPTIONS|	Optional|	Yes	|Yes|	Yes	|No	|Returns supported methods for a URL|
 |TRACE|	No|	Yes|	Yes	|Yes|	No|	Echos retrieved request|
 |PATCH|	Yes	|Yes|	No|	No|	No|	Partial modification of resource|
@@ -38,7 +39,7 @@
 
 - REpresentational State Transfer.
 - reference, manipulate, and transfer state.
-- Rest uses a common set of methods (called “verbs”) to operate on the state of a resource (“noun”
+- Rest uses a common set of methods (called “verbs”) to operate on the state of a resource (“noun”)
 
 - RESTful Endpoint: http://api.server.com/api/v1/people
 
