@@ -58,4 +58,4 @@ Hi, I'm Lulu! Welcome to my learning journal for code 201, 301 and 401.
 1. Lecture 7 [Express](./code401/class-07.md)
 1. Lecture 8 [Express Routing & Connected API](./code401/class-08.md)
 1. Lecture 9 [API Server](./code401/class-09.md)
-1. Lecture 10 [](./code401/class-10.md)
+1. Lecture 10 [Stacks & Queues](./code401/class-10.md)
