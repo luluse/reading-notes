@@ -60,7 +60,7 @@ Hi, I'm Lulu! Welcome to my learning journal for code 201, 301 and 401.
 1. Lecture 9 [API Server](./code401/class-09.md)
 1. Lecture 10 [Stacks & Queues](./code401/class-10.md)
 1. Lecture 11 [Authentication](./code401/class-11.md)
-1. Lecture 12 [](./code401/class-12.md)
+1. Lecture 12 [OAuth](./code401/class-12.md)
 1. Lecture 13 [](./code401/class-13.md)
 1. Lecture 14 [](./code401/class-14.md)
 1. Lecture 15 [](./code401/class-15.md)
