@@ -66,6 +66,6 @@ Hi, I'm Lulu! Welcome to my learning journal for code 201, 301 and 401.
 1. Lecture 15 [Trees](./code401/class-15.md)
 1. Lecture 16 [Event Driven Applications](./code401/class-16.md)
 1. Lecture 17 [TCP Servers](./code401/class-17.md)
-1. Lecture 18 [](./code401/class-18.md)
+1. Lecture 18 [Socket.io](./code401/class-18.md)
 1. Lecture 19 [](./code401/class-19.md)
 1. Lecture 20 [](./code401/class-20.md)
