@@ -69,7 +69,7 @@ Hi, I'm Lulu! Welcome to my learning journal for code 201, 301 and 401.
 1. Lecture 18 [Socket.io](./code401/class-18.md)
 1. Lecture 19 [Message Queues](./code401/class-19.md)
 1. Lecture 26 [Component Based UI](./code401/class-26.md)
-1. Lecture 27 [](./code401/class-27.md)
+1. Lecture 27 [Props and State](./code401/class-27.md)
 1. Lecture 28 [](./code401/class-28.md)
 1. Lecture 29 [](./code401/class-29.md)
 1. Lecture 30 [](./code401/class-30.md)

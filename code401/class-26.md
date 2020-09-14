@@ -15,9 +15,9 @@ When you use a library, you are in charge of the flow of the application. You ar
 
 When you use a framework, the framework is in charge of the flow. It provides some places for you to plug in your code, but it calls the code you plugged in as needed.
 
-[Free Code Camp](https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/)
+- [Free Code Camp](https://www.freecodecamp.org/news/the-difference-between-a-framework-and-a-library-bd133054023f/)
 
-[Medium](https://medium.com/better-programming/libraries-vs-frameworks-whats-the-difference-5f28c53dcffe)
+- [Medium](https://medium.com/better-programming/libraries-vs-frameworks-whats-the-difference-5f28c53dcffe)
 
 ### Term
 
@@ -26,7 +26,6 @@ When you use a framework, the framework is in charge of the flow. It provides so
 |Rendering| Transoforming react elements into react DOM. Then react DOM updates to help the browser undertand and display the elements on the screen. |
 |Templates|Premade peice of code that can be customized.|
 |State|React components has a built-in state object. The state object is where you store property values that belongs to the component. When the state object changes, the component re-renders.|
-| | |
 
 
 ### introducing JSX
