@@ -72,4 +72,4 @@ Hi, I'm Lulu! Welcome to my learning journal for code 201, 301 and 401.
 1. Lecture 27 [Props and State](./code401/class-27.md)
 1. Lecture 28 [Component Composition](./code401/class-28.md)
 1. Lecture 29 [Routing](./code401/class-29.md)
-1. Lecture 30 [](./code401/class-30.md)
+1. Lecture 30 [Hash Tables](./code401/class-30.md)
