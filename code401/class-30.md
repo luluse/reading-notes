@@ -4,6 +4,8 @@
 
 ## What is a Hashtable?
 
+1. Hashtable is a data structure used to store information. 
+
 1. Hash - A hash is the result of some algorithm taking an incoming string and converting it into a value that could be used for either security or some other purpose. In the case of a hashtable, it is used to determine the index of the array.
 
 1. Buckets - A bucket is what is contained in each index of the array of the hashtable. Each index is a bucket. An index could potentially contain multiple key/value pairs if a collision occurs.
@@ -69,3 +71,5 @@ The Contains method will accept a key, and return a bool on if that key exists i
 
 ### GetHash()
 The GetHash will accept a key as a string, conduct the hash, and then return the index of the array where the key/value should be placed.
+
+[The basics of Hash Table](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
