@@ -11,7 +11,7 @@
 ## Why do you sometimes need to “wrap” functions in useCallback when called from within useEffect
 
 Pass an inline callback and an array of dependencies. useCallback will return a memoized version of the callback that only changes if one of the dependencies has changed. This is useful when passing callbacks to optimized child components that rely on reference equality to prevent unnecessary renders 
--[useCallback](https://reactjs.org/docs/hooks-reference.html#usecallback)
+- [useCallback](https://reactjs.org/docs/hooks-reference.html#usecallback)
 
 ## Why are functional components preferred over class components?
 
@@ -59,11 +59,16 @@ function MyComponent(props) {
 
 ## Materials
 
-custom hooks - all you need to know
-async hooks
-useReducer Hook
-react custom hooks
+[custom hooks - all you need to know](https://www.telerik.com/kendo-react-ui/react-hooks-guide/#toc-custom-react-hooks)
 
-use hooks
-hooks list
-10 essential react hooks
+[async hooks](https://dev.to/vinodchauhan7/react-hooks-with-async-await-1n9g)
+
+[useReducer Hook](https://reactjs.org/docs/hooks-reference.html#usereducer)
+
+[react custom hooks](https://reactjs.org/docs/hooks-custom.html)
+
+[use hooks](https://usehooks.com/)
+
+[hooks list](https://github.com/rehooks/awesome-react-hooks)
+
+[10 essential react hooks](https://blog.bitsrc.io/10-react-custom-hooks-you-should-have-in-your-toolbox-aa27d3f5564d)
