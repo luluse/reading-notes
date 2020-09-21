@@ -75,6 +75,6 @@ Hi, I'm Lulu! Welcome to my learning journal for code 201, 301 and 401.
 1. Lecture 30 [Hash Tables](./code401/class-30.md)
 1. Lecture 31 [Hooks API](./code401/class-31.md)
 1. Lecture 32 [Custom Hooks](./code401/class-32.md)
-1. Lecture 33 [](./code401/class-33.md)
+1. Lecture 33 [Context API](./code401/class-33.md)
 1. Lecture 34 [](./code401/class-34.md)
 1. Lecture 35 [](./code401/class-35.md)
