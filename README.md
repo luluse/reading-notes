@@ -80,6 +80,6 @@ Hi, I'm Lulu! Welcome to my learning journal for code 201, 301 and 401.
 1. Lecture 35 [Graphs](./code401/class-35.md)
 1. Lecture 36 [Application State with Redux](./code401/class-36.md)
 1. Lecture 37 [Redux - Combined Reducers](./code401/class-37.md)
-1. Lecture 38 [](./code401/class-38.md)
+1. Lecture 38 [Redux - Asynchronous Actions](./code401/class-38.md)
 1. Lecture 39 [](./code401/class-39.md)
 
