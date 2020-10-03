@@ -82,4 +82,7 @@ Hi, I'm Lulu! Welcome to my learning journal for code 201, 301 and 401.
 1. Lecture 37 [Redux - Combined Reducers](./code401/class-37.md)
 1. Lecture 38 [Redux - Asynchronous Actions](./code401/class-38.md)
 1. Lecture 39 [Redux - Additional Topics](./code401/class-39.md)
-
+1. Lecture 41 [React Native](./code401/class-41.md)
+1. Lecture 42 [](./code401/class-42.md)
+1. Lecture 43 [](./code401/class-43.md)
+1. Lecture 44 [](./code401/class-44.md)
