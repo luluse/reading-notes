@@ -19,9 +19,14 @@ The Redux Toolkit package is intended to be the standard way to write Redux logi
 
 ## Materials
 
-(getting started with react native)[https://reactnative.dev/docs/getting-started]
-(React native basics (Tutorial))[https://reactnative.dev/docs/tutorial]
-(react native)[https://reactnative.dev/]
-(expo)[https://expo.io/]
-(expo snack)[https://snack.expo.io/]
-(ejecting)[https://docs.expo.io/expokit/eject/?redirected]
+[getting started with react native](https://reactnative.dev/docs/getting-started)
+
+[React native basics (Tutorial)](https://reactnative.dev/docs/tutorial)
+
+[react native](https://reactnative.dev/)
+
+[expo](https://expo.io/)
+
+[expo snack](https://snack.expo.io/)
+
+[ejecting](https://docs.expo.io/expokit/eject/?redirected)
