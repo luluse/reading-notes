@@ -1,13 +1,24 @@
 # Reading Notes
 
 ## Intro:
-Hi, I'm Lulu! Welcome to my learning journal for code 201, 301 and 401.
+Hi, I'm Lulu! Welcome to my learning journal for code 102, 201, 301 and 401.
 
 [Click here](https://github.com/luluse) to get to my **GitHub**.
 
 [Click here](https://www.linkedin.com/in/lulu-sevignon/) to get to my **LinkedIn**.
 
+## Code 102 -Learning Journal
 
+1. [Growth Mindset](./code102/growthmindset.md)
+1. [Learning Markdown](./code102/learningmarkdown.md)
+1. [The Coder's Computer](./code102/coderscomputer.md)
+1. [Git & GitHub](./code102/git&github.md)
+1. [Structure web pages with HTML](./code102/html.md)
+1. [CSS](./code102/css.md)
+1. [Dynamic web pages with JavaScript](./code102/dynamicwebpages.md)
+1. [Computer Architecture and Logic](./code102/architectureandlogic.md)
+1. [Programming with JavaScript](./code102/programmingwithjs.md)
+1. [Operators and Loops](./code102/operatorsandloops.md)
 
 ## Code 201 - Foundations of Software Development
 
